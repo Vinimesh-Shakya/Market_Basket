@@ -80,6 +80,19 @@ UCI Online Retail Dataset
 
 ---
 
+## Dashboards
+
+### Sales Overview
+![Sales Overview Dashboard](Sales_Overview_dashboard.png)
+
+### Customer Segmentation
+![Customer Segmentation Dashboard](Customer_Segmentation_dashboard.png)
+
+### Market Basket Analysis
+![Market Basket Analysis Dashboard](Market_Basket_Analysis_dashboard.png)
+
+---
+
 ## Technologies Used
 
 | Technology | Purpose |
